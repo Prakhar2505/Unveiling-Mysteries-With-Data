@@ -1,5 +1,4 @@
-## Visualizations are dynamic and made through Plotly Library, Github will not be able to load the visualizations as it tries to load a static copy. 
-Instead of downloading and setting up the environment, You can view the analysis here: [Video Game Sales EDA](https://nbviewer.jupyter.org/github/Prakhar2505/Unveiling-Mysteries-with-Data/blob/master/Video%20Game%20Sales/Video%20Game%20Sales%20EDA.ipynb)
+## Visualizations are dynamic and made through Plotly Library, Github will not be able to load the visualizations as it tries to load a static copy.Instead of downloading and setting up the environment, You can view the analysis here: [Video Game Sales EDA](https://nbviewer.jupyter.org/github/Prakhar2505/Unveiling-Mysteries-with-Data/blob/master/Video%20Game%20Sales/Video%20Game%20Sales%20EDA.ipynb)
 
 ## Dependencies
 - ### [vgsales.csv](https://www.kaggle.com/gregorut/videogamesales) 
